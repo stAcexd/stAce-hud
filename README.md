@@ -1,3 +1,6 @@
+# Download
+Download [here](https://github.com/stAcexd/stAce-hud/archive/refs/heads/main.zip).
+
 # DISCLAIMER
 This hud has been edited based on branslam m0re hud edit. 
 I've edited this hud based on personal preferences.
