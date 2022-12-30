@@ -1,7 +1,8 @@
-# stAce-hud
+# stAce-m0re
 
-## Download
+## Download & Album
 Download [here](https://github.com/stAcexd/stAce-hud/archive/refs/heads/main.zip).
+Download [here](https://imgur.com/a/16AYoG6).
 
 ## DISCLAIMER
 This hud has been edited based on branslam m0re hud edit. 
